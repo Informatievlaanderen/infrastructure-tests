@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F3A183E2-827C-4543-86B7-576AF914A119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events", "src\Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events\Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events.csproj", "{E968A208-CC8D-4ADB-A2AE-54F00F82A601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E968A208-CC8D-4ADB-A2AE-54F00F82A601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E968A208-CC8D-4ADB-A2AE-54F00F82A601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E968A208-CC8D-4ADB-A2AE-54F00F82A601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E968A208-CC8D-4ADB-A2AE-54F00F82A601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E968A208-CC8D-4ADB-A2AE-54F00F82A601} = {F3A183E2-827C-4543-86B7-576AF914A119}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D112013-2984-4CF2-B54D-DBB9ED872A76}
+	EndGlobalSection
+EndGlobal

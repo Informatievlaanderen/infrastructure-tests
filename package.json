@@ -1,6 +1,6 @@
 {
   "name": "infrastructure-tests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Infrastructure unit-tests to validate assemblies.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",

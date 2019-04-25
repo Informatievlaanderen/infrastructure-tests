@@ -15,8 +15,9 @@ licenseUrl https://opensource.org/licenses/MIT
 description Infrastructure unit-tests to validate assemblies.
 
 dependencies
-  Be.Vlaanderen.Basisregisters.EventHandling >= LOCKEDVERSION
-  Be.Vlaanderen.Basisregisters.AggregateSource >= LOCKEDVERSION
+  Be.Vlaanderen.Basisregisters.AggregateSource ~> 3.0
+  Be.Vlaanderen.Basisregisters.EventHandling ~> 1.0
+
   xunit >= LOCKEDVERSION
   FluentAssertions >= LOCKEDVERSION
   Newtonsoft.Json >= LOCKEDVERSION

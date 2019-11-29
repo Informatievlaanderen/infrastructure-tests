@@ -15,12 +15,13 @@ licenseUrl https://opensource.org/licenses/MIT
 description Infrastructure unit-tests to validate assemblies.
 
 dependencies
-  Be.Vlaanderen.Basisregisters.AggregateSource ~> 3.2
-  Be.Vlaanderen.Basisregisters.EventHandling ~> 1.1
+  framework: netcoreapp30
+    Be.Vlaanderen.Basisregisters.AggregateSource >= LOCKEDVERSION
+    Be.Vlaanderen.Basisregisters.EventHandling >= LOCKEDVERSION
 
-  xunit >= LOCKEDVERSION
-  FluentAssertions >= LOCKEDVERSION
-  Newtonsoft.Json >= LOCKEDVERSION
+    xunit >= LOCKEDVERSION
+    FluentAssertions >= LOCKEDVERSION
+    Newtonsoft.Json >= LOCKEDVERSION
 
 files
   InfrastructureEventsTests.cs => Content

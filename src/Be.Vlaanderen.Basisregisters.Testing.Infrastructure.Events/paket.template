@@ -15,7 +15,7 @@ licenseUrl https://opensource.org/licenses/MIT
 description Infrastructure unit-tests to validate assemblies.
 
 dependencies
-  framework: netcoreapp30
+  framework: netcoreapp31
     Be.Vlaanderen.Basisregisters.AggregateSource >= LOCKEDVERSION
     Be.Vlaanderen.Basisregisters.EventHandling >= LOCKEDVERSION
 

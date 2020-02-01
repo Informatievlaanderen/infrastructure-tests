@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.1.0...v2.2.0) (2020-02-01)
+
+
+### Features
+
+* upgrade netcoreapp31 and dependencies ([eef4bc2](https://github.com/informatievlaanderen/infrastructure-tests/commit/eef4bc24655f8ba02652ed6f9a5460f628e82b5f))
+
 # [2.1.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.0.0...v2.1.0) (2019-12-15)
 
 

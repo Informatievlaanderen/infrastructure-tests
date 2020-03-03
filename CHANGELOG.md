@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.0...v2.2.1) (2020-03-03)
+
+
+### Bug Fixes
+
+* bump netcore to 3.1.2 ([cbb761f](https://github.com/informatievlaanderen/infrastructure-tests/commit/cbb761f287d9bbea6f50888e7b9bbbb7d78c91cb))
+
 # [2.2.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.1.0...v2.2.0) (2020-02-01)
 
 

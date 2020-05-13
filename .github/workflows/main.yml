@@ -104,7 +104,7 @@ jobs:
       if: env.RELEASE_VERSION != 'none'
       shell: bash
       run: |
-        node packages/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content/ci-nuget.js dist/$LIBNAME/$LIBNAME.$SEMVER.nupkg
+        node packages/Be.Vlaanderen.Basisregisters.Build.Pipeline/Content/ci-nuget.js dist/$LIBNAME/$LIBNAME.Events.$SEMVER.nupkg
       env:
         LIBNAME: Be.Vlaanderen.Basisregisters.Testing.Infrastructure
         SEMVER: ${{ env.RELEASE_VERSION }}

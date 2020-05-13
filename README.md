@@ -1,4 +1,4 @@
-﻿# Be.Vlaanderen.Basisregisters.Testing.Infrastructure
+﻿# Be.Vlaanderen.Basisregisters.Testing.Infrastructure [![Build Status](https://github.com/Informatievlaanderen/infrastructure-tests/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/infrastructure-tests/actions)
 
 Contains unit-tests to validate your event types and assembly.
 This is a source-only package, meaning that upon installation, it will create a file `InfrastructureEventsTests.cs` in your project directory.

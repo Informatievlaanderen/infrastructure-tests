@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.1...v2.2.2) (2020-05-13)
+
+
+### Bug Fixes
+
+* move to GH-actions ([cf3097c](https://github.com/informatievlaanderen/infrastructure-tests/commit/cf3097ccdc6a2c0855779345d27b7b6a48afb12e))
+
 ## [2.2.1](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.0...v2.2.1) (2020-03-03)
 
 

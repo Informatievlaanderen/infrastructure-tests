@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.4...v2.2.5) (2020-07-18)
+
+
+### Bug Fixes
+
+* move to 3.1.6 ([cfd1034](https://github.com/informatievlaanderen/infrastructure-tests/commit/cfd1034788e2cb5afb15f77de02a9b3072b7b95c))
+
 ## [2.2.4](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.3...v2.2.4) (2020-06-19)
 
 

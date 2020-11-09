@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.6...v2.3.0) (2020-11-09)
+
+
+### Features
+
+* add test to check for public fields within events ([e3b5d96](https://github.com/informatievlaanderen/infrastructure-tests/commit/e3b5d96b3a2a6deded2e951e2dcc1a4a772f9e2c))
+
 ## [2.2.6](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 

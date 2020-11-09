@@ -1,4 +1,4 @@
-﻿namespace Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events
+namespace Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events
 {
     using System;
     using System.Collections.Generic;
@@ -103,6 +103,17 @@
                     .SelectMany(s => s.GetCustomAttributes(typeof(JsonConstructorAttribute), true))
                     .Should()
                     .NotBeEmpty($"Forgot JsonConstructor on {type.FullName}");
+            }
+        }
+
+        [Fact]
+        public void HasNoPublicFields()
+        {
+            foreach (var type in _eventTypes)
+            {
+                type.GetFields(BindingFlags.Public | BindingFlags.Instance)
+                    .Should()
+                    .BeEmpty($"{type.FullName} has a public field");
             }
         }
 

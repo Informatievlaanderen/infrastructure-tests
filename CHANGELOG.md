@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.0...v2.3.1) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([8a64fa0](https://github.com/informatievlaanderen/infrastructure-tests/commit/8a64fa011e1e410f360136ea3caa6a87a8b84901))
+
 # [2.3.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.2.6...v2.3.0) (2020-11-09)
 
 

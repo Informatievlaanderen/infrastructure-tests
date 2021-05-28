@@ -1,3 +1,10 @@
+## [2.3.4](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.3...v2.3.4) (2021-05-28)
+
+
+### Bug Fixes
+
+* move to 5.0.6 ([a95bbaf](https://github.com/informatievlaanderen/infrastructure-tests/commit/a95bbafd53bd8d13c091293a1b10d1ad64032767))
+
 ## [2.3.3](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.2...v2.3.3) (2021-02-02)
 
 

@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.4...v3.0.0) (2022-03-25)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([dd0cbfd](https://github.com/informatievlaanderen/infrastructure-tests/commit/dd0cbfd4e40aa9b615df32fe5f1f2963df8dff1e))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.3.4](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.3...v2.3.4) (2021-05-28)
 
 

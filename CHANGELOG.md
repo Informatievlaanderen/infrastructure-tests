@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v3.0.0...v4.0.0) (2024-03-11)
+
+
+### Features
+
+* upgrade to net 8.0.2 ([da8af06](https://github.com/informatievlaanderen/infrastructure-tests/commit/da8af06bf70492c82947e57f4fc744858f2d14bc))
+
+
+### BREAKING CHANGES
+
+* upgrade to net 8.0.2
+
 # [3.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v2.3.4...v3.0.0) (2022-03-25)
 
 

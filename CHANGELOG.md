@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v4.0.0...v5.0.0) (2025-04-08)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([274541b](https://github.com/informatievlaanderen/infrastructure-tests/commit/274541babb1e27e27cd61f8ceae01f1919352041))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v3.0.0...v4.0.0) (2024-03-11)
 
 

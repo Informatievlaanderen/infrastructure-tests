@@ -1,9 +1,0 @@
-﻿Newtonsoft.Json
-
-Be.Vlaanderen.Basisregisters.EventHandling
-Be.Vlaanderen.Basisregisters.AggregateSource
-
-xunit
-xunit.runner.visualstudio
-Microsoft.NET.Test.Sdk
-FluentAssertions

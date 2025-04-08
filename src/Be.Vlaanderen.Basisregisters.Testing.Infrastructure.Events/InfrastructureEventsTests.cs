@@ -27,11 +27,11 @@ namespace Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events
             var domainAssembly = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault(a => GetAssemblyTypesSafe(a).Any(t => t?.Name == "DomainAssemblyMarker"));
             if (domainAssembly == null)
             {
-                _eventTypes = Enumerable.Empty<Type>();
+                _eventTypes = [];
                 return;
             }
 
-            bool IsEventNamespace(Type t) => t.Namespace.EndsWith("Events");
+            bool IsEventNamespace(Type t) => t.Namespace?.EndsWith("Events") ?? false;
             bool IsNotCompilerGenerated(MemberInfo t) => Attribute.GetCustomAttribute(t, typeof(CompilerGeneratedAttribute)) == null;
 
             _eventTypes = domainAssembly
@@ -117,7 +117,7 @@ namespace Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events
             }
         }
 
-        public static IEnumerable<Type> GetParentTypes(Type type)
+        public static IEnumerable<Type> GetParentTypes(Type? type)
         {
             // is there any base type?
             if (type == null || type.BaseType == null)

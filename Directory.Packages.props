@@ -10,7 +10,7 @@
         <PackageVersion Include="Be.Vlaanderen.Basisregisters.EventHandling" Version="7.0.0" />
         <PackageVersion Include="Be.Vlaanderen.Basisregisters.AggregateSource" Version="10.0.2" />
 
-        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.13.0" />
+        <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
         <PackageVersion Include="xunit" Version="2.9.3" />
         <PackageVersion Include="xunit.runner.visualstudio" Version="3.0.2" />
         <PackageVersion Include="FluentAssertions" Version="[7.1.0,8.0.0)" />

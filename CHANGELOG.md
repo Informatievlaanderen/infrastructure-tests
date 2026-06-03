@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v5.0.0...v6.0.0) (2026-06-03)
+
+
+### Features
+
+* update packages + upgrade to dotnet 10 ([ef06466](https://github.com/informatievlaanderen/infrastructure-tests/commit/ef064669a859b804fa219adeb9593f2857163aa8))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 10
+
 # [5.0.0](https://github.com/informatievlaanderen/infrastructure-tests/compare/v4.0.0...v5.0.0) (2025-04-08)
 
 
